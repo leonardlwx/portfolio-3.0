@@ -16,7 +16,6 @@ function App() {
         <div id="container-wrap">
           <Sidebar></Sidebar>
           <div id="colorlib-main">
-              <p> hi</p>
             <Introduction></Introduction>
             <About></About>
             <Timeline></Timeline>
