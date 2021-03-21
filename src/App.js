@@ -1,6 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 import { Helmet } from 'react-helmet';
+import Sidebar from './components/sidebar'
+import Introduction from './components/introduction'
+import About from './components/about'
+import Timeline from './components/timeline'
+import Projects from './components/projects'
 
 function App() {
   return (
@@ -9,13 +14,13 @@ function App() {
           <title>Leonard Lim</title>
         </Helmet>
         <div id="container-wrap">
-          {/*<Sidebar></Sidebar>*/}
+          <Sidebar></Sidebar>
           <div id="colorlib-main">
               <p> hi</p>
-            {/*<Introduction></Introduction>*/}
-            {/*<About></About>*/}
-            {/*<Timeline></Timeline>*/}
-            {/*<Projects></Projects>*/}
+            <Introduction></Introduction>
+            <About></About>
+            <Timeline></Timeline>
+            <Projects></Projects>
           </div>
         </div>
       </div>
