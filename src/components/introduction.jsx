@@ -15,14 +15,14 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm Leonard</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://google.com" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1bt2kxzT2J14Qtmiw5csTx7miBJJyPiqJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+              <li style={{backgroundImage: 'url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Computer-Science-Desktop-Wallpaper.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">

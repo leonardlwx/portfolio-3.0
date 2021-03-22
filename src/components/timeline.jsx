@@ -21,19 +21,73 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>ISU Dining, Supervisor, Ames IA <span>2018-present</span></h2>
+                        <p>I am in charged of managing student employees between multiple stations. My task is to delegate tasks effectively
+                        between employees to ensure the smooth operation. I also provided training to 20 student employees and worked with cooks and managers to provide
+                        quality food and services to 700 customers.</p>
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Lean Techniques, ARBnb, Ames IA <span> Fall 2020</span></h2>
+                        <p>I designed an application which allows landlord to display their apartment through augmented
+                        reality. The software used ARCore as an AR plugins and Unity as a platform to create the application.
+                        I built an AR Trail features that can guide the user through a path whether it's indoor or outdoor.
+                        This application is a game changer as it makes a dull AirBnb process into an exciting one.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-6">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Juris Technologies, Software Engineer Intern, KL Malaysia <span> Summer 2019</span></h2>
+                        <p>I am responsible for new system features and enhancing the existing features. I applied AGILE and SCRUM project management
+                         skills throughout the projects. I worked with a team of 10 on developing database system for a local banking cooperation. Tools
+                         and languages I used are Toad by oracle, PHP, CSS, SQL, PLSQL, and javaScript.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>LK Strategics, Collection List, KL Malaysia <span> Fall 2020</span></h2>
+                        <p>I designed a new database application that stores client's data in MySQL database and displays it through
+                           Java interface. The application improved the ability to store data of over 10 years and present
+                        the data in a more user-friendly manner. </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Undergraduate at Iowa State University <span>2018-2021</span></h2>
+                        <p>I am pursuing my Bachelor of Science in Computer Science. I have taken Artificial Intelligence, Final Year Project, Web Development,
+                          Database Management, and Software Testing classes. I am also part of MCN (Malaysian Cultural Night) committee for year 2019.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Undergraduate at Inti International College Subang <span>2017-2018</span></h2>
+                        <p>I am pursuing my Bachelor of Science in Computer Science through American Transfer Program.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +97,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Mathnasium, Mathematics Instructor, Shah Alam Malaysia <span>2017-2018</span></h2>
+                        <p>I taught high level mathematics to over 50 students and receive positive feedbacks from parents.
+                         I improved my communication skills through interaction with parents and students.</p>
                       </div>
                     </div>
                   </article>

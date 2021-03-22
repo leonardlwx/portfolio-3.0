@@ -20,7 +20,7 @@ export default class Sidebar extends Component {
                   {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
                   <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
-                  <li><a href="#projects" data-nav-section="projects">Project</a></li>
+                  {/*<li><a href="#projects" data-nav-section="projects">Project</a></li>*/}
                 </ul>
               </div>
             </nav>
@@ -36,7 +36,7 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i><br></br>
+                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i> using React<br></br>
                   Thanks Dhruv for inspiration! 
               </small></p>
               <p><small>
