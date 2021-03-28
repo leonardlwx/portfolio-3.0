@@ -11,11 +11,14 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
-                    <h2 className="colorlib-heading">Who Am I?</h2>
-                        <p>I am from Iowa State University and I am majoring in Computer Science. I love messing with tech and I am super interested in automation tools.</p>
+                    <span className="heading-meta">About Me</span>
+                    <h2 className="colorlib-heading">Who I am?</h2>
+                        <p>My name is Leonard Lim Wei Xian. I am currently a senior in 
+                        Computer Science in Iowa State University and I will be 
+                        graduating this May 2021.</p>
 
-                        <p>I am a senior year student and I am actively looking for job</p>
+                        <p>I am currently seeking for full time employment in US to 
+                        continue my passion in building software. </p>
                     </div>
                 </div>
                 </div>
@@ -27,7 +30,7 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
+                <span className="heading-meta">Skills</span>
                 <h2 className="colorlib-heading">Here are some of my expertise</h2>
             </div>
             </div>
@@ -51,7 +54,7 @@ export default class About extends Component {
                         </span>
                         <div className="desc">
                             <h3>Web Development </h3>
-                            <p>I have experience building websites JavaScript,React,HTML,CSS,PHP.</p>
+                            <p>I have experience building websites with JavaScript,React,HTML,CSS,PHP.</p>
                         </div>
                     </div>
                 </div>
@@ -62,7 +65,9 @@ export default class About extends Component {
                     </span>
                         <div className="desc">
                             <h3>Project Management</h3>
-                            <p>Through my internship with Juris Technologies, I experienced using AGILE and SCRUM management methodology. </p>
+                            <p>Through my internship with Juris Technologies, I am 
+                            experienced with the usage AGILE and SCRUM management 
+                            methodology. </p>
                         </div>
                     </div>
                 </div>
@@ -73,7 +78,7 @@ export default class About extends Component {
                 </span>
                         <div className="desc">
                             <h3>Augmented Reality</h3>
-                            <p>Through my final year project with Lean techniques, I experienced using ARCore through Unity Application </p>
+                            <p>Through my final year project with Lean techniques, I am experienced using ARCore through Unity Application </p>
                         </div>
                     </div>
                 </div>
