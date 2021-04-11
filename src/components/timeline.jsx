@@ -87,7 +87,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Undergraduate at Inti International College Subang <span>2017-2018</span></h2>
-                        <p>I am pursuing my Bachelor of Science in Computer Science through American Transfer Program.</p>
+                        <p>I pursued my Bachelor of Science in Computer Science through American Transfer Program.</p>
                       </div>
                     </div>
                   </article>
